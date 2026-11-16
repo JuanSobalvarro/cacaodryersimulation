@@ -1,5 +1,9 @@
 First 
 ```bash
-git submodule add https://github.com/projectchrono/DEM-Engine.git external/DEM-Engine
 git submodule update --init --recursive
+```
+
+How to build
+```bash
+cmake -S external/DEM-Engine -B build/deme
 ```
