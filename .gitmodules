@@ -1,0 +1,3 @@
+[submodule "external/DEM-Engine"]
+	path = external/DEM-Engine
+	url = https://github.com/projectchrono/DEM-Engine.git
